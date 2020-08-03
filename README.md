@@ -9,7 +9,7 @@ I'm Full Stack developer from France that loves **Open Source**, **Golang**, **J
 [![Keybase Profile](https://img.shields.io/keybase/pgp/jerome1337?style=flat-square)](https://keybase.io/jerome1337)
 ![Visitors Count](https://komarev.com/ghpvc/?username=Jerome1337&style=flat-square&color=yellow)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jerome1337&theme=radical&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jerome1337&theme=radical&show_icons=true&count_private=true)
 
 ## About Me 🤓
 
