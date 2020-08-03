@@ -10,6 +10,7 @@ I'm Full Stack developer from France that loves **Open Source**, **Golang**, **J
 ![Visitors Count](https://komarev.com/ghpvc/?username=Jerome1337&style=flat-square&color=yellow)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jerome1337&theme=radical&show_icons=true&count_private=true)
+![Favorite Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerome1337&layout=compact&theme=radical)
 
 ## About Me 🤓
 
