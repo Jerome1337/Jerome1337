@@ -14,10 +14,10 @@ I'm Full Stack developer from France that loves **Open Source**, **Golang**, **J
 
 ## About Me 🤓
 
-- 🔭 I’m currently working on [Excelante](https://github.com/Los-Crackitos/Excelante)
-- 🌱 I’m currently learning React.JS with Next.JS
-- 👯 I’m looking to collaborate on Golang projects
-- 💬 Ask me about anything, I love helping new developers and share my knowledge
+- 🔭 I’m currently working on [Excelante](https://github.com/Los-Crackitos/Excelante) adn some other side projects
+- 🌱 I’m currently challenging me with [#100DaysOfCode](https://twitter.com/search?q=%23100DaysOfCode)
+- 👯 I’m looking to collaborate on Golang or JavaScript projects
+- 💬 Trying to be official contributor of Open Source projects
 
 
  
