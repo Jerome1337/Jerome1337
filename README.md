@@ -1,6 +1,6 @@
 <h2 align="center">Hello, I'm Jérôme. 👋</h2>
 
-I'm A freelance Full Stack developer from France that loves **Open Source**, **Golang**, **JavaScript** and **Linux** 🐧
+I'm a freelance full stack developer from France that loves **Open Source**, **Golang**, **JavaScript** and **Linux** 🐧
 
 [![Linkedin Profile](https://img.shields.io/badge/-Jerome%20Pogeant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeromepogeant)](https://www.linkedin.com/in/jeromepogeant)
 [![Twitter Profile](https://img.shields.io/badge/-Jerome%20Pogeant-1da1f2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/jeromepogeant)](https://twitter.com/jeromepogeant)
@@ -18,33 +18,28 @@ I'm A freelance Full Stack developer from France that loves **Open Source**, **G
 ^^^^ ^^^  ^^^   ^^^    ^^^^      ^^^^ ^^^  ^^^   ^^^    ^^^^      ^^^^ ^^^  ^^^   ^^^    ^^^^      ^^^^ ^^^  ^^ ^    ^^^
 ^^^^      ^^^^     ^^^    ^^     ^^^^      ^^^^     ^^^    ^^     ^^^^      ^^^^     ^^^    ^^     ^^^^   ^^^  ^^ ^ ^^^
 ^^      ^^^^      ^^^    ^^^^^^  ^^      ^^^^      ^^^    ^^^^^^  ^^      ^^^^      ^^^    ^^^^^^  ^^      ^^   ^^    ^^^
-                                                         __               __
-                   .                                   ><_'>             <'_><
-                                                          '               `
-
+                                                         __                                            __
+                   .                                   ><_'>                       .                  <'_><
+                                                          '                                             `
                    \                                                     /
                   / \        o                        /                 /--\ /
                 >=_('>                               / \               <o)  =<
-                  \_/                 .             <')_=<              \__/ \       /,
-                   /           /                     \_/                 \          <')=<
-                              / \                     \                              \`
+                  \_/                 .             <')_=<              \__/ \                   /,
+                   /           /                     \_/                 \                      <')=<
+                              / \                     \                                          \`
                              <')_=<
-                              \_/
-                               \                 \
-                                             \ /--\
-                                             >=  (o>                 .
-                                             / \__/
-                                                 /
+                              \_/             o 
+                               \
                                                                /
-                                                              /.-\ /
+                                                              /.-\ /               .
                                                              <o)  =<
                                                               \__/ \
-                                                            \  \                            T~~
-                                                           / \                              |
-                                                         >=_('>                            /^\
-                                                           \_/                            /   \
-                                                            /                 _   _   _  /     \  _   _   _
-                                                                             [ ]_[ ]_[ ]/ _   _ \[ ]_[ ]_[ ]
+                 .       \  \                      o                                        T~~              o
+                          / \                                       o                       |
+                         >=_('>                                                            /^\
+                          \_/                                                             /   \
+                           /                                                  _   _   _  /     \  _   _   _
+                                        .                                    [ ]_[ ]_[ ]/ _   _ \[ ]_[ ]_[ ]
                                                                              |_=__-_ =_|_[ ]_[ ]_|_=-___-__|
                                                                               | _- =  | =_ = _    |= _=   |
                                                                               |= ([]  |- = _ =    |_-=_[] |     (
